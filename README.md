@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jasveer Singh
-- 👀 I’m interested in Full Stack Developement and Cyber Security
+- 👋 Hi, I’m Jasveer Singh.
+- 👀 I’m interested in Full Stack Developement and Cyber Security.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Some web development projects.
 <!-- - 📫 How to reach me mail esports.veer@gmail.com -->
